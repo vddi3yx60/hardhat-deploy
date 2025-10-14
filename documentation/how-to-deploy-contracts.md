@@ -107,3 +107,5 @@ const example = await deploy(
 ```
 
 This `libraries` object takes the name of the library, and its deployed address on the network. Multiple libraries can be passed into the `libraries` object.
+
+<!-- Auto-update: 2025-10-14T12:27:05.696755 -->
